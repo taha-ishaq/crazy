@@ -1,0 +1,8 @@
+.env
+/node_modules
+Dist/
+/Dist
+/temp
+/Dist/controllers/
+package-lock.json
+.idea
